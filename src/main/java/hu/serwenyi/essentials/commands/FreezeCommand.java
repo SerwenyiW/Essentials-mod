@@ -30,12 +30,13 @@ public class FreezeCommand {
         ServerPlayer player = source.getPlayer();
         assert player != null;
         if(target.getSpeed() == 0) {
-            Objects.requireNonNull(target.getAttribute(Attributes.MOVEMENT_SPEED)).setBaseValue(0.1F);
-            player.sendSystemMessage(Component.literal(target.getName().getString() + " kiolvasztva!"));
+            Objects.requireNonNull(target.getAttribute(Attributes.MOVEMENT_SPEED)).setBaseValue(0.10000000149011612D);
+            player.sendSystemMessage(Component.literal(target.getName().getString()).append(Component.translatable("serwessentials.freeze.unfreezed")));
         } else {
-            Objects.requireNonNull(target.getAttribute(Attributes.MOVEMENT_SPEED)).setBaseValue(0);
-            player.sendSystemMessage(Component.literal(target.getName().getString() + " lefagyasztva!"));
+            Objects.requireNonNull(target.getAttribute(Attributes.MOVEMENT_SPEED)).setBaseValue(0.0D);
+            player.sendSystemMessage(Component.literal(target.getName().getString()).append(Component.translatable("serwessentials.freeze.freezed")));
         }
         return 0;
     }
 }
+
