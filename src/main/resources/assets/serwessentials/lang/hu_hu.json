@@ -1,0 +1,19 @@
+{
+  "serwessentials.feedback.noengouh.player": "Nincs fent elég játékos!",
+  "serwessentials.teleport.target": "Elettél teleportálva!",
+  "serwessentials.teleport.all.sender": "Összes játékos teleportálása hozzád...",
+  "serwessentails.teleport.target.to.player.sender": "Elteleportáltad: ",
+  "serwessentials.teleport.target.to.player.target": " elteleportált !",
+  "serwessentials.freeze.freezed": " lefagyasztva!",
+  "serwessentials.freeze.unfreezed": " kiolvasztva!",
+  "serwessentials.speed.walk.changed.sender": " játékos séta gyorsasága erre változott: ",
+  "serwessentials.speed.walk.changed.target": "Megváltozott a séta gyorsaságod ennyire: ",
+  "serwessentials.speed.walk.get": " séta gyorsassága: ",
+  "serwessentials.speed.fly.changed.sender": " játékos repülés gyorsasága erre változott: ",
+  "serwessentials.speed.fly.changed.target": "Megváltozott a repülés gyorsaságod ennyire:",
+  "serwessentials.speed.fly.get": " repülés gyorsassága: ",
+  "serwessentials.dimension": "Dimenzió",
+  "serwessentials.coordinates": "Koordinátái",
+  "serwessentials.lastdeath": "Itt haltál meg utoljára: ",
+  "serwessentials.teleport.lastdeath.location": "Ellettél teleportálva az utolsó halál kordinátádra!"
+}

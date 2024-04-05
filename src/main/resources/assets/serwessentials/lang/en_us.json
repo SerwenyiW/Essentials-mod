@@ -1,0 +1,20 @@
+{
+  "serwessentials.feedback.noengouh.player": "There's no enough player!",
+  "serwessentials.teleport.target": "You got teleported!",
+  "serwessentials.teleport.all.sender": "Teleport all players to you...",
+  "serwessentails.teleport.target.to.player.sender": "You teleported: ",
+  "serwessentials.teleport.target.to.player.target": " teleported you!",
+  "serwessentials.freeze.freezed": " freezed!",
+  "serwessentials.freeze.unfreezed": " unfreezed!",
+  "serwessentials.speed.walk.changed.sender": "'s walking speed changed to: ",
+  "serwessentials.speed.walk.changed.target": "Your walking speed changed to: ",
+  "serwessentials.speed.walk.get": "'s walk speed: ",
+  "serwessentials.speed.fly.changed.sender": "'s flying speed changed to: ",
+  "serwessentials.speed.fly.changed.target": "Your flying speed changed to: ",
+  "serwessentials.speed.fly.get": "'s fly speed: ",
+  "serwessentials.dimension": "Dimension",
+  "serwessentials.coordinates": "Coordinates",
+  "serwessentials.lastdeath": "You died here: ",
+  "serwessentials.teleport.lastdeath.location": "You got teleported to your last death location!"
+
+}
